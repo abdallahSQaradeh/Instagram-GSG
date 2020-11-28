@@ -1,0 +1,24 @@
+.person-info {
+  display: flex;
+  align-items: center;
+}
+.person-name-job-loc {
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+}
+.profile-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.person-name {
+  font-size: 10px;
+  font-weight: bold;
+  color: #f73e60;
+}
+.person-job,
+.person-loc {
+  color: #dedede;
+  font-size: 8px;
+}

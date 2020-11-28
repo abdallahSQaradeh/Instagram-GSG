@@ -1,0 +1,18 @@
+.search {
+  position: relative;
+}
+input[type="search"] {
+  border: none;
+  padding: 7px 20px;
+  font-size: 18px;
+  background-color: #f4f4f4;
+  width: 330px;
+  border-radius: 20px;
+}
+.search-icon {
+  position: absolute;
+  top: 8px;
+  right: 12px;
+  font-size: 22px;
+  color: #f73e60;
+}

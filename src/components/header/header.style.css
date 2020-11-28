@@ -3,8 +3,8 @@
   width: 824px;
   display: flex;
   align-items: center;
-  justify-content:space-around;
-  box-shadow: 0px 1px 30px 1px #FFF5F7;
+  justify-content: space-around;
+  box-shadow: 0px 1px 30px 1px #fff5f7;
 }
 .logo {
   width: 40px;
