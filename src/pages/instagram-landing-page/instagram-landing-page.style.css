@@ -1,0 +1,12 @@
+.instagram-container {
+  width: 1039px;
+  height: 775px;
+  border: 1px solid rgb(255, 219, 225);
+  display: flex;
+}
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 825px;
+}
