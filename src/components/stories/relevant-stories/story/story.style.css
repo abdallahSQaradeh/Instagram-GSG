@@ -1,0 +1,38 @@
+.story {
+  margin-left: 32px;
+}
+.story-images {
+  position: relative;
+  width: 118px;
+  margin-left: 20px;
+}
+.story-images,
+.story-tags {
+  display: flex;
+  align-items: center;
+  font-size: 10px;
+}
+.story-tags {
+  justify-content: space-between;
+}
+.tag1 {
+  color: #929292;
+}
+.tag2 {
+  color: #b2b1b1;
+  margin-right: 5px;
+}
+.person-img {
+  width: 60px;
+  height: 75px;
+  border-radius: 50%;
+  border: 3px solid white;
+  box-sizing: content-box;
+  background-color: white;
+  position: absolute;
+  left: -30px;
+}
+.tags-img {
+  width: 118px;
+  height: 75px;
+}

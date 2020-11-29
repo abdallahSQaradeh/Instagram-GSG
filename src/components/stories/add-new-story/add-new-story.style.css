@@ -1,0 +1,24 @@
+.add-new {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 55px;
+}
+.add-new .add-new-icon {
+  background-color: #f73e60;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.add-new p {
+  font-size: 10px;
+  margin-top: 2px;
+  color: #b3b3b3;
+}
