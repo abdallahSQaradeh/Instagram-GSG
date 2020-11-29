@@ -1,0 +1,22 @@
+.post-footer{
+    display:flex;
+    justify-content:space-between;
+}
+.post-reaction{
+    display:flex;
+    justify-content: space-around;
+    width:100px;
+    align-items:center;
+    margin-top:10px;
+}
+.heart{
+    color:#F73E60;
+}
+.post-save{
+    margin-top: 10px;
+    margin-right: 10px;
+    color:#CCCCCC;
+}
+.send,.message{
+    color:#CCCCCC;
+}
