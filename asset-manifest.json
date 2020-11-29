@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Instagram-GSG/static/css/main.825c8c5b.chunk.css",
+    "main.js": "/Instagram-GSG/static/js/main.5af9e8a4.chunk.js",
+    "main.js.map": "/Instagram-GSG/static/js/main.5af9e8a4.chunk.js.map",
+    "runtime-main.js": "/Instagram-GSG/static/js/runtime-main.070a5a2c.js",
+    "runtime-main.js.map": "/Instagram-GSG/static/js/runtime-main.070a5a2c.js.map",
+    "static/js/2.6ed12f07.chunk.js": "/Instagram-GSG/static/js/2.6ed12f07.chunk.js",
+    "static/js/2.6ed12f07.chunk.js.map": "/Instagram-GSG/static/js/2.6ed12f07.chunk.js.map",
+    "static/js/3.7e61c67c.chunk.js": "/Instagram-GSG/static/js/3.7e61c67c.chunk.js",
+    "static/js/3.7e61c67c.chunk.js.map": "/Instagram-GSG/static/js/3.7e61c67c.chunk.js.map",
+    "index.html": "/Instagram-GSG/index.html",
+    "static/css/main.825c8c5b.chunk.css.map": "/Instagram-GSG/static/css/main.825c8c5b.chunk.css.map",
+    "static/js/2.6ed12f07.chunk.js.LICENSE.txt": "/Instagram-GSG/static/js/2.6ed12f07.chunk.js.LICENSE.txt",
+    "static/media/TechPhone.cc9ce94d.jpg": "/Instagram-GSG/static/media/TechPhone.cc9ce94d.jpg",
+    "static/media/emma-watson.b2159863.jfif": "/Instagram-GSG/static/media/emma-watson.b2159863.jfif",
+    "static/media/family.e8c22eb2.jpg": "/Instagram-GSG/static/media/family.e8c22eb2.jpg",
+    "static/media/friend.eff2a11b.png": "/Instagram-GSG/static/media/friend.eff2a11b.png",
+    "static/media/jeep.5d045cff.jpg": "/Instagram-GSG/static/media/jeep.5d045cff.jpg",
+    "static/media/nature.e8adc27b.jpg": "/Instagram-GSG/static/media/nature.e8adc27b.jpg",
+    "static/media/person1.c8772ab5.jpg": "/Instagram-GSG/static/media/person1.c8772ab5.jpg",
+    "static/media/person1.fc6235b1.jpg": "/Instagram-GSG/static/media/person1.fc6235b1.jpg",
+    "static/media/person2.3aaab72c.jpg": "/Instagram-GSG/static/media/person2.3aaab72c.jpg",
+    "static/media/person2.4c70ac74.jpg": "/Instagram-GSG/static/media/person2.4c70ac74.jpg",
+    "static/media/person3.11447779.jpg": "/Instagram-GSG/static/media/person3.11447779.jpg",
+    "static/media/person3.72eca3c6.jpg": "/Instagram-GSG/static/media/person3.72eca3c6.jpg",
+    "static/media/person4.2b915f7d.jpg": "/Instagram-GSG/static/media/person4.2b915f7d.jpg",
+    "static/media/person4.3ef9cfcf.jpg": "/Instagram-GSG/static/media/person4.3ef9cfcf.jpg",
+    "static/media/person5.bfe20c3a.jpg": "/Instagram-GSG/static/media/person5.bfe20c3a.jpg",
+    "static/media/person6.d7fa0251.jpg": "/Instagram-GSG/static/media/person6.d7fa0251.jpg",
+    "static/media/plane.a9adc398.jpg": "/Instagram-GSG/static/media/plane.a9adc398.jpg",
+    "static/media/success.1f670649.jpg": "/Instagram-GSG/static/media/success.1f670649.jpg",
+    "static/media/tour.354830c9.jpg": "/Instagram-GSG/static/media/tour.354830c9.jpg",
+    "static/media/truck.6aa95457.jpg": "/Instagram-GSG/static/media/truck.6aa95457.jpg",
+    "static/media/work.3e84f935.jpg": "/Instagram-GSG/static/media/work.3e84f935.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.070a5a2c.js",
+    "static/js/2.6ed12f07.chunk.js",
+    "static/css/main.825c8c5b.chunk.css",
+    "static/js/main.5af9e8a4.chunk.js"
+  ]
+}
