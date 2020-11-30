@@ -24,14 +24,14 @@
   margin-right: 5px;
 }
 .person-img {
-  width: 60px;
+  width: 75px;
   height: 75px;
   border-radius: 50%;
   border: 3px solid white;
   box-sizing: content-box;
   background-color: white;
   position: absolute;
-  left: -30px;
+  left: -36px;
 }
 .tags-img {
   width: 118px;

@@ -8,7 +8,15 @@ export default function PostHeader(props) {
   return (
     <div className="post-header">
       <div className="h-person-info">
-        <img className="h-person-img" src={profile} alt="profile pic" />
+        <div
+          style={{
+            backgroundImage: `url(${profile})`,
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          }}
+          className="h-person-img"
+        />
+
         <div className="h-person-name-loc">
           <div className="h-person-name">{name}</div>
           <div className="h-person-loc">{loc}</div>

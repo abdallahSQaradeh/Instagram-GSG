@@ -7,8 +7,21 @@ export default function Story(props) {
   return (
     <div className="story">
       <div className="story-images">
-        <img src={src} alt="person of the story" className="person-img" />
-        <img src={tagPic} alt={tag1} className="tags-img" />
+        <div
+          style={{
+            backgroundImage: `url(${src})`,
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          }}
+          className="person-img"
+        />
+        <div
+          style={{
+            backgroundImage: `url(${tagPic})`,
+            backgroundSize: "cover",
+          }}
+          className="tags-img"
+        />
       </div>
 
       <div className="story-tags">

@@ -5,7 +5,13 @@ import ProfilePic from "../../../assets/emma-watson.jfif";
 export default function PersonInfo(props) {
   return (
     <div className="person-info">
-      <img src={ProfilePic} alt="Emma Watson" className="profile-img" />
+      <div
+        style={{
+          backgroundImage: `url(${ProfilePic})`,
+          backgroundSize: "cover",
+        }}
+        className="profile-img"
+      />
       <div className="person-name-job-loc">
         <div className="person-name">Emma Watson</div>
         <div className="person-job">Actress, Model</div>

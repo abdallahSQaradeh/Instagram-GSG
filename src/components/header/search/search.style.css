@@ -16,3 +16,7 @@ input[type="search"] {
   font-size: 22px;
   color: #f73e60;
 }
+input[type="search"]:focus {
+  border:none;
+  outline:none;
+}
